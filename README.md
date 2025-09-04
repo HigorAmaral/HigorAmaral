@@ -15,7 +15,7 @@ Desenvolvedor com experiência comprovada nos principais repositórios públicos
 
 ### 🌱 Sempre em busca de novos aprendizados!
 
-Aberto para colaborações e novos desafios. Se interessou? Entre em contato!
+Aberto para colaborações e novos desafios. 
 
 ---
 
