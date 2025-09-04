@@ -1,34 +1,23 @@
-## 👋 Olá! Eu sou o Higor Amaral
+## 👋 Olá! Eu sou o Higor do Amaral Fritz
 
-Desenvolvedor apaixonado por tecnologia, atuando principalmente nas áreas de backend e frontend. Busco constantemente atualização e novos desafios, com foco em entregar soluções eficientes e escaláveis.
+Desenvolvedor com experiência comprovada nos principais repositórios públicos, focado em entregar soluções eficientes e escaláveis.
 
 ### 💼 Sobre Mim
 
-- 💻 **Desenvolvedor Full Stack**  
-- 📍 Localização: Brasil  
-- 🚀 Experiência em projetos empresariais e acadêmicos  
-- 🧑‍💻 Interesse em backend, frontend, automação e DevOps
+- 💻 **Desenvolvedor Backend**
+- 🧑‍💻 Foco em automação, scripts e integração de sistemas
 
-### 🛠️ Tecnologias & Linguagens
+### 🛠️ Tecnologias & Linguagens Utilizadas
 
-- **Backend:**  
-  ![Java](https://img.shields.io/badge/-Java-blue?logo=java) ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/-React-blue?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript)
-- **Banco de Dados:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-00758f?logo=mysql)
-- **DevOps & Outros:**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+- ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
+- ![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash)
+- ![Procfile](https://img.shields.io/badge/-Procfile-lightgrey)
 
-### 📈 Estatísticas
+### 🌱 Sempre em busca de novos aprendizados!
 
-![HigorAmaral's GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorAmaral&show_icons=true&theme=radical)
-
-### 🌱 Sempre aprendendo!
-
-Atualmente estudando novas arquiteturas, padrões e ferramentas para desenvolvimento ágil e colaborativo. Aberto para projetos, colaborações e networking!
+Aberto para colaborações e novos desafios. Se interessou? Entre em contato!
 
 ---
 
-**Entre em contato:**  
+**Contato:**  
 [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](mailto:seuemail@gmail.com)
