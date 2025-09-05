@@ -6,7 +6,7 @@ Desenvolvedor focado em soluções eficientes e escaláveis, atuando em backend,
 
 - 💻 **Desenvolvedor Full Stack**
 - 🧑‍💻 Foco em backend, frontend e integração de sistemas
-- 🚀 Experiência em projetos empresariais e acadêmicos
+- 🚀 Experiência em projetos acadêmicos
 
 ### 🛠️ Tecnologias & Linguagens Utilizadas
 
