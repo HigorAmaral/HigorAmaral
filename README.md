@@ -29,4 +29,4 @@ Aberto para colaborações e novos desafios.
 ---
 
 **Contato:**  
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](amarahigor@gmail.com)
+[LinkedIn](www.linkedin.com/in/higor-do-amaral-fritz-727869298) | [Email](amarahigor@gmail.com)
