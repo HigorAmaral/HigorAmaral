@@ -29,4 +29,4 @@ Aberto para colaborações e novos desafios.
 ---
 
 **Contato:**  
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](mailto:seuemail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](amarahigor@gmail.com)
