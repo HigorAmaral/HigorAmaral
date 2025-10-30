@@ -4,7 +4,7 @@ Desenvolvedor focado em soluções eficientes e escaláveis, atuando em backend,
 
 ### 💼 Sobre Mim
 
-- 💻 **Desenvolvedor Full Stack**
+- 💻 **Desenvolvedor Frontend*
 - 🧑‍💻 Foco em backend, frontend e integração de sistemas
 - 🚀 Experiência em projetos acadêmicos
 
