@@ -6,9 +6,9 @@ Desenvolvedor com foco em construir soluções eficientes e escaláveis, atuando
 
 ### Sobre mim
 
-- 4bb Desenvolvedor **Frontend** (com interesse e vivência em backend e integrações)
-- 913 Experiência em projetos acadêmicos e pessoais
-- 680 Em busca de novos desafios e colaborações
+- 💻 Desenvolvedor **Frontend** (com interesse e vivência em backend e integrações)
+- 🎓 Experiência em projetos acadêmicos e pessoais
+- 🚀 Em busca de novos desafios e colaborações
 
 ---
 
@@ -27,8 +27,10 @@ Desenvolvedor com foco em construir soluções eficientes e escaláveis, atuando
 
 ### Estatísticas
 
-![HigorAmaral's GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorAmaral&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAmaral&layout=compact&theme=radical)
+> Se as imagens não carregarem, tente novamente em alguns minutos (o serviço às vezes fica instável) ou faça um fork do `github-readme-stats`.
+
+![HigorAmaral's GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorAmaral&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAmaral&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
