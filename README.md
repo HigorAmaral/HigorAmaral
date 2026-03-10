@@ -1,32 +1,38 @@
-## 👋 Olá! Eu sou o Higor do Amaral Fritz
+## Olá, eu sou o Higor do Amaral Fritz
 
-Desenvolvedor focado em soluções eficientes e escaláveis, atuando em backend, frontend e automação. Apaixonado por desafios e por aprender novas tecnologias.
+Desenvolvedor com foco em construir soluções eficientes e escaláveis, atuando principalmente com **backend**, **frontend** e **automação**. Gosto de resolver problemas, aprender continuamente e evoluir boas práticas de engenharia de software.
 
-### 💼 Sobre Mim
+---
 
-- 💻 **Desenvolvedor Frontend*
-- 🧑‍💻 Foco em backend, frontend e integração de sistemas
-- 🚀 Experiência em projetos acadêmicos
+### Sobre mim
 
-### 🛠️ Tecnologias & Linguagens Utilizadas
+- 4bb Desenvolvedor **Frontend** (com interesse e vivência em backend e integrações)
+- 913 Experiência em projetos acadêmicos e pessoais
+- 680 Em busca de novos desafios e colaborações
 
-- ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
-- ![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js)
-- ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sqlite)
-- ![Procfile](https://img.shields.io/badge/-Procfile-lightgrey)
+---
 
-### 📈 Estatísticas do GitHub
+### Tecnologias & Linguagens
+
+> Mantive as linguagens e tecnologias já presentes no seu perfil.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Procfile](https://img.shields.io/badge/Procfile-6c757d?style=for-the-badge)
+
+---
+
+### Estatísticas
 
 ![HigorAmaral's GitHub stats](https://github-readme-stats.vercel.app/api?username=HigorAmaral&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAmaral&layout=compact&theme=radical)
 
-### 🌱 Sempre em busca de novos aprendizados!
-
-Aberto para colaborações e novos desafios.
-
 ---
 
-**Contato:**  
-[LinkedIn](www.linkedin.com/in/higor-do-amaral-fritz-727869298) | [Email](amarahigor@gmail.com)
+### Contato
+
+- LinkedIn: https://www.linkedin.com/in/higor-do-amaral-fritz-727869298
+- Email: amarahigor@gmail.com
