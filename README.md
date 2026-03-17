@@ -14,7 +14,7 @@ Desenvolvedor com foco em construir soluções eficientes e escaláveis, atuando
 
 ### Tecnologias & Linguagens
 
-> Mantive as linguagens e tecnologias já presentes no seu perfil.
+> linguagens e tecnologias.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
